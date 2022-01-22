@@ -5,7 +5,7 @@ const geocoder = mbxGeocoding({ accessToken: mapBoxToken });
 const { cloudinary } = require("../cloudinary");
 
 const transformUrl= function(orig_path){
-    const url_part1='https://res.cloudinary.com/dywjwz6rl/image/upload/w_400,h_300/';
+    const url_part1='https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/';
     const url_part2=orig_path.slice(62);
     return url_part1+url_part2;
         }

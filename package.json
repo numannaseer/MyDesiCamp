@@ -1,5 +1,5 @@
 {
-  "name": "yelpcamp",
+  "name": "mydesicamp",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,7 +8,7 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mohamed Numan Naseer",
   "license": "ISC",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.11.0",

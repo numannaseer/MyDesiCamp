@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "61ebf5d3a2ee676fe022d2f2"
+  },
+  "rating": 5,
+  "body": "Enjoyed spending time here",
+  "author": {
+    "$oid": "61ebf57ca2ee676fe022d2ed"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebf633a2ee676fe022d2f8"
+  },
+  "rating": 5,
+  "body": "I fell in love with nature after visiting this campsite😊😍",
+  "author": {
+    "$oid": "61ebf57ca2ee676fe022d2ed"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebf65ba2ee676fe022d2fa"
+  },
+  "rating": 4,
+  "body": "Nice amenities available!!😎",
+  "author": {
+    "$oid": "61ebf57ca2ee676fe022d2ed"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebf6aba2ee676fe022d2fd"
+  },
+  "rating": 5,
+  "body": "loved this place!😍❤️",
+  "author": {
+    "$oid": "61ebf684a2ee676fe022d2fc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebf76aa2ee676fe022d2ff"
+  },
+  "rating": 5,
+  "body": "Nice service!😇 But weather was a bit humid",
+  "author": {
+    "$oid": "61ebf740a2ee676fe022d2fe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebf79ba2ee676fe022d301"
+  },
+  "rating": 5,
+  "body": "Loved the Rajasthani culture🥰",
+  "author": {
+    "$oid": "61ebf740a2ee676fe022d2fe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebf7f0a2ee676fe022d305"
+  },
+  "rating": 4,
+  "body": "Wonderful place👌",
+  "author": {
+    "$oid": "61ebf7c2a2ee676fe022d303"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebf81ea2ee676fe022d308"
+  },
+  "rating": 5,
+  "body": " Lovely location😎 loved the food here",
+  "author": {
+    "$oid": "61ebf7c2a2ee676fe022d303"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebf854a2ee676fe022d30a"
+  },
+  "rating": 5,
+  "body": "Visited with my family! We had fun😘",
+  "author": {
+    "$oid": "61ebf7c2a2ee676fe022d303"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebf8bfa2ee676fe022d30c"
+  },
+  "rating": 5,
+  "body": "Wondeful place to visit in summers❤️",
+  "author": {
+    "$oid": "61ebf57ca2ee676fe022d2ed"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebf938a2ee676fe022d30f"
+  },
+  "rating": 4,
+  "body": "Spent great time with my family😇",
+  "author": {
+    "$oid": "61ebf8dfa2ee676fe022d30d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebf9dba2ee676fe022d311"
+  },
+  "rating": 4,
+  "body": "Loved the scenery😎",
+  "author": {
+    "$oid": "61ebf9b0a2ee676fe022d310"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebfa07a2ee676fe022d313"
+  },
+  "rating": 5,
+  "body": "Superb place. VIsited with my wife and kids😍",
+  "author": {
+    "$oid": "61ebf9b0a2ee676fe022d310"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebfaaaa2ee676fe022d318"
+  },
+  "rating": 5,
+  "body": "Lovely place😊",
+  "author": {
+    "$oid": "61ebfa4ba2ee676fe022d315"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebfae8a2ee676fe022d31a"
+  },
+  "rating": 5,
+  "body": "Great place to visit in winters 😎",
+  "author": {
+    "$oid": "61ebd8d25168760016c1c906"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ebfb90a2ee676fe022d31e"
+  },
+  "rating": 5,
+  "body": "Nice arrangements were made, enjoyed here with friends. I recommend this place😘\r\n\r\n",
+  "author": {
+    "$oid": "61ebfa4ba2ee676fe022d315"
+  },
+  "__v": 0
+}]

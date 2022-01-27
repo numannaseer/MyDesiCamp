@@ -1,2 +1,6 @@
 node_modules
 .env
+campgrounds.json
+reviews.json
+sessions.json
+users.json

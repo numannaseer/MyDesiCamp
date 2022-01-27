@@ -1,0 +1,628 @@
+[{
+  "_id": {
+    "$oid": "61ebcb2f5168760016c1c8ee"
+  },
+  "geometry": {
+    "coordinates": [
+      77.088764,
+      28.461279
+    ],
+    "type": "Point"
+  },
+  "reviews": [
+    {
+      "$oid": "61ebf6aba2ee676fe022d2fd"
+    },
+    {
+      "$oid": "61ebf938a2ee676fe022d30f"
+    }
+  ],
+  "title": "Sand Voyages Camp",
+  "location": "Tso Moriri, Ladakh",
+  "price": 6160,
+  "description": "A beautiful place to camp amid this pandemic with your friends and family. ",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebcb2f5168760016c1c8ef"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/u8win0qrxjr5juir6vrn.jpg",
+      "filename": "mydesicamp/u8win0qrxjr5juir6vrn"
+    },
+    {
+      "_id": {
+        "$oid": "61ec00e28778ab00167f01fb"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/xzrlaqsbjilbwakg7fth.jpg",
+      "filename": "mydesicamp/xzrlaqsbjilbwakg7fth"
+    },
+    {
+      "_id": {
+        "$oid": "61ec00e28778ab00167f01fc"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/y6z1kbkshxtom6w38gxb.jpg",
+      "filename": "mydesicamp/y6z1kbkshxtom6w38gxb"
+    },
+    {
+      "_id": {
+        "$oid": "61ec00e28778ab00167f01fd"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/qwv2nvejpvfzrfzaejmf.jpg",
+      "filename": "mydesicamp/qwv2nvejpvfzrfzaejmf"
+    }
+  ],
+  "author": {
+    "$oid": "61ebc91a5168760016c1c8ed"
+  },
+  "__v": 8
+},{
+  "_id": {
+    "$oid": "61ebcc965168760016c1c8f0"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.19536770545,
+      26.9710515219598
+    ]
+  },
+  "reviews": [
+    {
+      "$oid": "61ebf76aa2ee676fe022d2ff"
+    }
+  ],
+  "title": "Royal Golden Camp",
+  "location": "Rajasthan",
+  "price": 7534,
+  "description": "A must place to visit in winters to explore the culture of Rajasthan",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebcc965168760016c1c8f2"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/cc1jc06bxe8cuikwh5e4.jpg",
+      "filename": "mydesicamp/cc1jc06bxe8cuikwh5e4"
+    },
+    {
+      "_id": {
+        "$oid": "61ebcc965168760016c1c8f3"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/bqdx5hzi2mfq2rwxm7gc.jpg",
+      "filename": "mydesicamp/bqdx5hzi2mfq2rwxm7gc"
+    },
+    {
+      "_id": {
+        "$oid": "61ebd0e25168760016c1c8f4"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/xrpzab5lsbwnbl1ei2i9.jpg",
+      "filename": "mydesicamp/xrpzab5lsbwnbl1ei2i9"
+    }
+  ],
+  "author": {
+    "$oid": "61ebc91a5168760016c1c8ed"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "61ebd29f5168760016c1c8f6"
+  },
+  "geometry": {
+    "coordinates": [
+      70.91333499999999,
+      26.9127845
+    ],
+    "type": "Point"
+  },
+  "reviews": [
+    {
+      "$oid": "61ebf79ba2ee676fe022d301"
+    }
+  ],
+  "title": "Dynasty Desert Camp",
+  "location": "Jaisalmer",
+  "price": 8253,
+  "description": "Winters are not boring anymore, you have got to visit this beatiful campsite to escape the harsh winters.",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebd29f5168760016c1c8f7"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/dysnuqgf4lyvx1u1bz1r.jpg",
+      "filename": "mydesicamp/dysnuqgf4lyvx1u1bz1r"
+    },
+    {
+      "_id": {
+        "$oid": "61ebd29f5168760016c1c8f8"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/aprjfkrvj5eobcwaosr4.jpg",
+      "filename": "mydesicamp/aprjfkrvj5eobcwaosr4"
+    },
+    {
+      "_id": {
+        "$oid": "61ebd29f5168760016c1c8f9"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/oisd0vu6onltwxt5axio.jpg",
+      "filename": "mydesicamp/oisd0vu6onltwxt5axio"
+    }
+  ],
+  "author": {
+    "$oid": "61ebd19d5168760016c1c8f5"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ebd3f95168760016c1c8fa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.198931,
+      30.134524
+    ]
+  },
+  "reviews": [
+    {
+      "$oid": "61ebf5d3a2ee676fe022d2f2"
+    },
+    {
+      "$oid": "61ebf7f0a2ee676fe022d305"
+    }
+  ],
+  "title": "Rishikesh Valley Campground",
+  "location": "Rishikesh, Uttarakhand",
+  "price": 7999,
+  "description": "Located in the valleys, this campground is best to get away from everyday busy life. Visit with your friends.",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebd3f95168760016c1c8fe"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/iztqzoadekv7swfsra0i.jpg",
+      "filename": "mydesicamp/iztqzoadekv7swfsra0i"
+    }
+  ],
+  "author": {
+    "$oid": "61ebd19d5168760016c1c8f5"
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "61ebd61f5168760016c1c900"
+  },
+  "geometry": {
+    "coordinates": [
+      77.160523,
+      32.315789
+    ],
+    "type": "Point"
+  },
+  "reviews": [
+    {
+      "$oid": "61ebf81ea2ee676fe022d308"
+    },
+    {
+      "$oid": "61ebf8bfa2ee676fe022d30c"
+    }
+  ],
+  "title": "Aspen Adventures Camp",
+  "location": "Solang Valley, Manali",
+  "price": 7568,
+  "description": "A splendid place to visit with your friends and family in summers.",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebd61f5168760016c1c901"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/gokfzp9pk6dtybacojpa.jpg",
+      "filename": "mydesicamp/gokfzp9pk6dtybacojpa"
+    },
+    {
+      "_id": {
+        "$oid": "61ebd61f5168760016c1c902"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/dcjog44j1b1lybj7bwwd.jpg",
+      "filename": "mydesicamp/dcjog44j1b1lybj7bwwd"
+    },
+    {
+      "_id": {
+        "$oid": "61ebd61f5168760016c1c903"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/vxe6dlg4qyw8i4hrh9cb.jpg",
+      "filename": "mydesicamp/vxe6dlg4qyw8i4hrh9cb"
+    },
+    {
+      "_id": {
+        "$oid": "61ebd61f5168760016c1c904"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/k3kqydmkvv67cuzscy6e.jpg",
+      "filename": "mydesicamp/k3kqydmkvv67cuzscy6e"
+    },
+    {
+      "_id": {
+        "$oid": "61ebd61f5168760016c1c905"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/cpouhanebdo8z8kxyna8.jpg",
+      "filename": "mydesicamp/cpouhanebdo8z8kxyna8"
+    }
+  ],
+  "author": {
+    "$oid": "61ebd19d5168760016c1c8f5"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "61ebd9cc5168760016c1c907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.2075568980951,
+      30.18908256286
+    ]
+  },
+  "reviews": [
+    {
+      "$oid": "61ebf65ba2ee676fe022d2fa"
+    }
+  ],
+  "title": "Jim Corbett Campsite",
+  "location": "Uttarakhand",
+  "price": 5656,
+  "description": "Located near Jim Corbett National Park, this place holds ethereal beauty with rivers flowing nearby. Camp site is located in a safe zone.",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebdb015168760016c1c908"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/r9gonxqikiknmgwztgcy.jpg",
+      "filename": "mydesicamp/r9gonxqikiknmgwztgcy"
+    },
+    {
+      "_id": {
+        "$oid": "61ebdb015168760016c1c909"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/ztbj3hbt0kdkrl4vxkqf.jpg",
+      "filename": "mydesicamp/ztbj3hbt0kdkrl4vxkqf"
+    },
+    {
+      "_id": {
+        "$oid": "61ebdb015168760016c1c90a"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/pmiyx1qpkxslgeweumwg.jpg",
+      "filename": "mydesicamp/pmiyx1qpkxslgeweumwg"
+    },
+    {
+      "_id": {
+        "$oid": "61ebdb015168760016c1c90b"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/iqzcpvcxaiolc2r31dci.jpg",
+      "filename": "mydesicamp/iqzcpvcxaiolc2r31dci"
+    },
+    {
+      "_id": {
+        "$oid": "61ebdb015168760016c1c90c"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/zdzb2dy8hip613u1dqsc.jpg",
+      "filename": "mydesicamp/zdzb2dy8hip613u1dqsc"
+    }
+  ],
+  "author": {
+    "$oid": "61ebd8d25168760016c1c906"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "61ebe04f5168760016c1c90e"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.59796,
+      12.96991
+    ]
+  },
+  "reviews": [
+    {
+      "$oid": "61ebf9dba2ee676fe022d311"
+    }
+  ],
+  "title": " Tamarind Jungle Camp",
+  "location": "Bengaluru",
+  "price": 7564,
+  "description": "One of the best campgrounds located in the garden city of India",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebe04f5168760016c1c90f"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/f8347iml0nnej5a3pewp.jpg",
+      "filename": "mydesicamp/f8347iml0nnej5a3pewp"
+    },
+    {
+      "_id": {
+        "$oid": "61ebe04f5168760016c1c910"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/wrgejta0ibwrssncuzmw.jpg",
+      "filename": "mydesicamp/wrgejta0ibwrssncuzmw"
+    },
+    {
+      "_id": {
+        "$oid": "61ebe04f5168760016c1c911"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/brmuxjcdnotopcttbazv.jpg",
+      "filename": "mydesicamp/brmuxjcdnotopcttbazv"
+    },
+    {
+      "_id": {
+        "$oid": "61ebe04f5168760016c1c912"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/a1e4fwlypmildjxtuif5.jpg",
+      "filename": "mydesicamp/a1e4fwlypmildjxtuif5"
+    }
+  ],
+  "author": {
+    "$oid": "61ebdf4d5168760016c1c90d"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61ebe0fe5168760016c1c914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.59796,
+      12.96991
+    ]
+  },
+  "reviews": [
+    {
+      "$oid": "61ebfaaaa2ee676fe022d318"
+    }
+  ],
+  "title": "AiCa Camp Stay",
+  "location": "Bengaluru",
+  "price": 8788,
+  "description": "A beautiful campsite for your friends and family",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebe0fe5168760016c1c916"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/oab6pjbiiy8lazpgsh2n.jpg",
+      "filename": "mydesicamp/oab6pjbiiy8lazpgsh2n"
+    },
+    {
+      "_id": {
+        "$oid": "61ebe0fe5168760016c1c917"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/i6tiskxgvo4iwaak6unq.jpg",
+      "filename": "mydesicamp/i6tiskxgvo4iwaak6unq"
+    }
+  ],
+  "author": {
+    "$oid": "61ebe0885168760016c1c913"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61ebe2c45168760016c1c919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.19536770545,
+      26.9710515219598
+    ]
+  },
+  "reviews": [
+    {
+      "$oid": "61ebfae8a2ee676fe022d31a"
+    }
+  ],
+  "title": "Prince Desert Camp",
+  "location": "Rajasthan",
+  "price": 5678,
+  "description": "A great place to visit during the covid 19 pandemic with your loved ones",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebe2c45168760016c1c91b"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/nvuivtgvu6quoevgbhba.jpg",
+      "filename": "mydesicamp/nvuivtgvu6quoevgbhba"
+    },
+    {
+      "_id": {
+        "$oid": "61ebe2c45168760016c1c91c"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/sxkl5ezoq7cdryqlg7z6.jpg",
+      "filename": "mydesicamp/sxkl5ezoq7cdryqlg7z6"
+    },
+    {
+      "_id": {
+        "$oid": "61ebe2c45168760016c1c91d"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/eykegihmcruytosywrna.jpg",
+      "filename": "mydesicamp/eykegihmcruytosywrna"
+    }
+  ],
+  "author": {
+    "$oid": "61ebe1845168760016c1c918"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61ebe3c45168760016c1c91f"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.0102659776342,
+      26.34436679357
+    ]
+  },
+  "reviews": [
+    {
+      "$oid": "61ebfb90a2ee676fe022d31e"
+    }
+  ],
+  "title": "Nameri Eco Camp",
+  "location": "Assam",
+  "price": 5478,
+  "description": "An awesome campsite to be visited with in summers",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebe3c45168760016c1c920"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/rohall6p03cs5cglarao.jpg",
+      "filename": "mydesicamp/rohall6p03cs5cglarao"
+    },
+    {
+      "_id": {
+        "$oid": "61ebe3c45168760016c1c921"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/sqw6oxwsgturpz4wh6fl.jpg",
+      "filename": "mydesicamp/sqw6oxwsgturpz4wh6fl"
+    },
+    {
+      "_id": {
+        "$oid": "61ebe3c45168760016c1c922"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/xdwetalovtdfd2xq8why.jpg",
+      "filename": "mydesicamp/xdwetalovtdfd2xq8why"
+    }
+  ],
+  "author": {
+    "$oid": "61ebe32a5168760016c1c91e"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "61ebeffba2ee676fe022d2e0"
+  },
+  "geometry": {
+    "coordinates": [
+      77.641735,
+      12.978958
+    ],
+    "type": "Point"
+  },
+  "reviews": [
+    {
+      "$oid": "61ebfa07a2ee676fe022d313"
+    }
+  ],
+  "title": "Coorg Planter’s Camp",
+  "location": "Coorg",
+  "price": 5894,
+  "description": "This beautiful place is gonna take your breath away! Visit in summers with your loved ones",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebeffba2ee676fe022d2e1"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/sbjt6bd5yqxcktdyzl85.jpg",
+      "filename": "mydesicamp/sbjt6bd5yqxcktdyzl85"
+    }
+  ],
+  "author": {
+    "$oid": "61ebef6da2ee676fe022d2df"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ebf15aa2ee676fe022d2e3"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.363,
+      23.3306
+    ]
+  },
+  "reviews": [
+    {
+      "$oid": "61ebf854a2ee676fe022d30a"
+    }
+  ],
+  "title": "Baghmundi Nature Camp",
+  "location": "Purulia, West Bengal",
+  "price": 8745,
+  "description": "Explore this campsite surrounded with natural beauty.  ",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebf15aa2ee676fe022d2e4"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/ujlks3c9jmxrdme9hzp7.jpg",
+      "filename": "mydesicamp/ujlks3c9jmxrdme9hzp7"
+    },
+    {
+      "_id": {
+        "$oid": "61ebf15aa2ee676fe022d2e5"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/uhbfdw26mal6tkaetlmx.jpg",
+      "filename": "mydesicamp/uhbfdw26mal6tkaetlmx"
+    },
+    {
+      "_id": {
+        "$oid": "61ebf15aa2ee676fe022d2e6"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/wle2opgjar7whcspb4cp.jpg",
+      "filename": "mydesicamp/wle2opgjar7whcspb4cp"
+    },
+    {
+      "_id": {
+        "$oid": "61ebf15aa2ee676fe022d2e7"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/pt0mwxru8idlq3yv3df3.jpg",
+      "filename": "mydesicamp/pt0mwxru8idlq3yv3df3"
+    }
+  ],
+  "author": {
+    "$oid": "61ebf05ba2ee676fe022d2e2"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ebf48aa2ee676fe022d2e9"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.2349953733528,
+      31.92740773302
+    ]
+  },
+  "reviews": [
+    {
+      "$oid": "61ebf633a2ee676fe022d2f8"
+    }
+  ],
+  "title": "Chandratal Lake Campground",
+  "location": "Himachal Pradesh",
+  "price": 5879,
+  "description": "Surrounded by lakes this is a Campground to visit along your friends and family",
+  "images": [
+    {
+      "_id": {
+        "$oid": "61ebf48aa2ee676fe022d2ea"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/ncuvgirrv8tzkrmwdezd.jpg",
+      "filename": "mydesicamp/ncuvgirrv8tzkrmwdezd"
+    },
+    {
+      "_id": {
+        "$oid": "61ebf48aa2ee676fe022d2eb"
+      },
+      "url": "https://res.cloudinary.com/dywjwz6rl/image/upload/w_300,h_300/mydesicamp/nciagztcnazoaw9ze3qu.jpg",
+      "filename": "mydesicamp/nciagztcnazoaw9ze3qu"
+    }
+  ],
+  "author": {
+    "$oid": "61ebf34da2ee676fe022d2e8"
+  },
+  "__v": 4
+}]
